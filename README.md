@@ -1,4 +1,4 @@
 # Artmate-Trendz-s-website
-artmatetrendz.in
+[I'm an inline-style link](https://www.artmatetrendz.in/)
 
 Website for a coaching institute
